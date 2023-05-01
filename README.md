@@ -31,5 +31,5 @@
 <div align="center">
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
+  <p>E sim, ainda tem bastante coisa pra mexer no meu perfil ainda 😅
 </div>
