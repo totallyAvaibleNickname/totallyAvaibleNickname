@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou Matheus Rinaldi
+    Opa! Eu sou Matheus Rinaldi
   </h1>
   
      
@@ -24,9 +24,13 @@
                   
 </div><br>
 
-
 <div align="center">
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  <p>E sim, ainda tem bastante coisa pra mexer no meu perfil ainda 😅
+  <p>E sim, ainda tem bastante coisa pra mexer no meu perfil ainda 😅</p>
+  <br>
+  <h2>Projetos pendentes</h2>
+  <h3>Neu Supra Mayro bross weee</h3>
+  <p>Um nome irônico, pois o jogo é controlado pela sua webcam!<p>
+  <h4>Lançamento estimado: 04.05.2023
 </div>
